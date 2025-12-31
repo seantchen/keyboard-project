@@ -1,0 +1,9 @@
+[submodule "kicad-libs/MX_Alps"]
+	path = kicad-libs/MX_Alps
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "kicad-libs/USB_C"]
+	path = kicad-libs/USB_C
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "kicad-libs/random_parts"]
+	path = kicad-libs/random_parts
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
