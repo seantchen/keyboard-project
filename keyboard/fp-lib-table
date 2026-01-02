@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX")(type "KiCad")(uri "${KIPRJMOD}/footprints/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/footprints/type-c.pretty")(options "")(descr ""))
+  (lib (name "Random-Keyboard-Parts")(type "KiCad")(uri "${KIPRJMOD}/footprints/random-parts.pretty")(options "")(descr ""))
+)
