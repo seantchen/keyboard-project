@@ -3,4 +3,5 @@
   (lib (name "MX-Alps")(type "Legacy")(uri "${KIPRJMOD}/symbols/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/symbols/Type-C.lib")(options "")(descr ""))
   (lib (name "Random-Keyboard-Parts")(type "Legacy")(uri "${KIPRJMOD}/symbols/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "SW_SKQG")(type "KiCad")(uri "${KIPRJMOD}/symbols/SW_SKQG.kicad_sym")(options "")(descr ""))
 )
