@@ -349,18 +349,6 @@
 		(uuid "08dbf5d2-8141-4aa0-82d5-f1e8dc4cdc39")
 	)
 	(junction
-		(at 353.06 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "09076559-e034-487c-bc8d-8731354ff51a")
-	)
-	(junction
-		(at 353.06 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "093bca05-a180-44cb-b361-7146ce103ca8")
-	)
-	(junction
 		(at 137.16 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -493,34 +481,16 @@
 		(uuid "3af6f898-6dfa-4c37-8d79-4e56a5de5042")
 	)
 	(junction
-		(at 347.98 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3b9999f4-62f8-4177-addf-cdca281e030d")
-	)
-	(junction
 		(at 115.57 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b9de41b-5e6d-4317-919e-8c13065b6c38")
 	)
 	(junction
-		(at 88.9 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bf65276-c73e-4fff-81a7-0adc3eb9377a")
-	)
-	(junction
 		(at 347.98 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c80fd32-e074-45ac-9b0d-72e52ce8bab0")
-	)
-	(junction
-		(at 261.62 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ca09629-cdbd-42c7-91f7-f8239b606070")
 	)
 	(junction
 		(at 309.88 101.6)
@@ -577,34 +547,16 @@
 		(uuid "53fb1781-162d-43b5-8565-4ace728d898a")
 	)
 	(junction
-		(at 218.44 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "564075c0-86e7-4bdc-abb5-6b2c098f71f7")
-	)
-	(junction
 		(at 50.8 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57ab4f34-bbe7-4de8-bed9-dc72240e4a1a")
 	)
 	(junction
-		(at 347.98 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "57f337fc-cf68-47a4-92a5-fd2b904b2bd3")
-	)
-	(junction
 		(at 93.98 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58135d4f-6eb0-410d-8c7a-6f9c93087eb3")
-	)
-	(junction
-		(at 175.26 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "59312665-1d39-4fef-bc72-87dda84e55b3")
 	)
 	(junction
 		(at 309.88 203.2)
@@ -623,12 +575,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bfdff6c-312b-4a68-b8cd-a54bf9dc81a6")
-	)
-	(junction
-		(at 132.08 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6456958e-658f-418f-b153-e967a6a0a567")
 	)
 	(junction
 		(at 88.9 119.38)
@@ -655,12 +601,6 @@
 		(uuid "66f47591-560e-4920-a0c1-6921762b1092")
 	)
 	(junction
-		(at 326.39 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a9aca08-da3c-4fe3-8191-0dc6b2456d28")
-	)
-	(junction
 		(at 180.34 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -679,12 +619,6 @@
 		(uuid "6f6d5d5b-b645-4afe-8df7-930060a9745c")
 	)
 	(junction
-		(at 347.98 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7070d0cb-1b48-4eea-8830-91b95a1a41b4")
-	)
-	(junction
 		(at 331.47 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -697,28 +631,10 @@
 		(uuid "72db8473-fb83-445c-9b71-8c601f10c1f2")
 	)
 	(junction
-		(at 196.85 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72fd5504-bfa7-4a95-a736-564b7f67702a")
-	)
-	(junction
-		(at 67.31 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "734ef2e3-6593-46f0-a51d-e982ce48ff92")
-	)
-	(junction
 		(at 326.39 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "74f6f746-a6d1-43db-b7c3-fa95a9ce6864")
-	)
-	(junction
-		(at 347.98 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "76abc5f6-7502-4dc5-b0fd-e1b94bc9cb3b")
 	)
 	(junction
 		(at 115.57 152.4)
@@ -793,12 +709,6 @@
 		(uuid "8c7c5ca5-b100-440c-825c-1da881224198")
 	)
 	(junction
-		(at 110.49 203.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8cdfe0f2-8edf-4509-bc7a-25bad9741a50")
-	)
-	(junction
 		(at 201.93 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -841,12 +751,6 @@
 		(uuid "9ca20fcb-40a7-4f88-8972-e98881c2e530")
 	)
 	(junction
-		(at 304.8 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9cd8e53b-e6c7-4fc3-bf1d-85f20b79b34e")
-	)
-	(junction
 		(at 158.75 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -863,18 +767,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a13468dd-b8db-43a7-9c65-0873389c7837")
-	)
-	(junction
-		(at 110.49 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2462146-edda-4109-8524-ad00675db539")
-	)
-	(junction
-		(at 240.03 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a44a743c-e536-4386-9b71-6087605c4f75")
 	)
 	(junction
 		(at 72.39 203.2)
@@ -901,12 +793,6 @@
 		(uuid "a7bb6ff2-b4f6-4295-932d-71064f6c04d6")
 	)
 	(junction
-		(at 353.06 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab980cc9-a087-483a-a05d-27592ff1eec9")
-	)
-	(junction
 		(at 266.7 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -931,12 +817,6 @@
 		(uuid "afbab518-2c4e-43ea-bb2d-6d4d8e04d782")
 	)
 	(junction
-		(at 347.98 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b14cbd73-107b-4d25-a785-b2857b70e073")
-	)
-	(junction
 		(at 223.52 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -959,12 +839,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7271863-7749-4ec6-b267-7cc91b0d3119")
-	)
-	(junction
-		(at 283.21 195.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b85579e6-4e1c-4bf2-91dd-6a6e9324413b")
 	)
 	(junction
 		(at 180.34 177.8)
@@ -1063,18 +937,6 @@
 		(uuid "d9afaf06-5c00-46f5-bde5-2587f1342d1e")
 	)
 	(junction
-		(at 153.67 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dde76b78-f122-4bf4-9e0c-b5220a95638a")
-	)
-	(junction
-		(at 353.06 177.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de06b14e-1477-497f-918b-4a4da6c00072")
-	)
-	(junction
 		(at 245.11 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1148,17 +1010,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 152.4) (xy 347.98 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01d8d40f-dabe-466e-82a1-2d292d5c0be6")
-	)
-	(wire
-		(pts
-			(xy 347.98 144.78) (xy 347.98 152.4)
+			(xy 347.98 144.78) (xy 347.98 170.18)
 		)
 		(stroke
 			(width 0)
@@ -1258,16 +1110,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 170.18) (xy 240.03 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b4cb83f-1777-4ea0-b067-918eee9e75c8")
-	)
-	(wire
-		(pts
 			(xy 137.16 127) (xy 158.75 127)
 		)
 		(stroke
@@ -1285,16 +1127,6 @@
 			(type default)
 		)
 		(uuid "0cef469d-4f0c-4900-a56a-1622608833c8")
-	)
-	(wire
-		(pts
-			(xy 218.44 170.18) (xy 218.44 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0eebb2b2-e5f9-42f8-8692-8b05b4071105")
 	)
 	(wire
 		(pts
@@ -1348,16 +1180,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 203.2) (xy 67.31 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1427c268-6faf-4fcf-902b-efc896971519")
-	)
-	(wire
-		(pts
 			(xy 326.39 119.38) (xy 320.04 119.38)
 		)
 		(stroke
@@ -1398,16 +1220,6 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 203.2) (xy 304.8 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18fef537-5641-4e2b-95c1-44531a03a1b9")
-	)
-	(wire
-		(pts
 			(xy 88.9 93.98) (xy 82.55 93.98)
 		)
 		(stroke
@@ -1415,16 +1227,6 @@
 			(type default)
 		)
 		(uuid "198d363b-36e6-4d17-9c86-d7a4ae0e6fc4")
-	)
-	(wire
-		(pts
-			(xy 331.47 101.6) (xy 347.98 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a0d7cfb-eb39-4716-ba8b-44073dc06c89")
 	)
 	(wire
 		(pts
@@ -1468,7 +1270,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 177.8) (xy 347.98 177.8)
+			(xy 331.47 177.8) (xy 353.06 177.8)
 		)
 		(stroke
 			(width 0)
@@ -1478,23 +1280,13 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 101.6) (xy 347.98 119.38)
+			(xy 347.98 93.98) (xy 347.98 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "23d7f07f-8e61-432a-9219-c453ffd2d899")
-	)
-	(wire
-		(pts
-			(xy 153.67 170.18) (xy 153.67 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25a63edb-241e-4ac4-892e-7038664bfe60")
 	)
 	(wire
 		(pts
@@ -1538,7 +1330,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 127) (xy 347.98 144.78)
+			(xy 347.98 119.38) (xy 347.98 144.78)
 		)
 		(stroke
 			(width 0)
@@ -1605,16 +1397,6 @@
 			(type default)
 		)
 		(uuid "2c23c701-489f-44a6-a756-92c4ad097497")
-	)
-	(wire
-		(pts
-			(xy 283.21 203.2) (xy 283.21 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c461073-fad0-49ac-817e-b765211caae1")
 	)
 	(wire
 		(pts
@@ -1868,7 +1650,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 203.2) (xy 180.34 203.2)
+			(xy 93.98 203.2) (xy 180.34 203.2)
 		)
 		(stroke
 			(width 0)
@@ -1905,26 +1687,6 @@
 			(type default)
 		)
 		(uuid "4c777ed4-2c3a-4211-b052-845661841b26")
-	)
-	(wire
-		(pts
-			(xy 353.06 101.6) (xy 369.57 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cebd445-bd2e-4a72-9521-b944d8f0bdcd")
-	)
-	(wire
-		(pts
-			(xy 93.98 203.2) (xy 110.49 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4dad1ab9-6cce-4a08-b4e7-39b33f272116")
 	)
 	(wire
 		(pts
@@ -1978,16 +1740,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 203.2) (xy 196.85 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54e54b2c-7416-46e9-a186-45b1734eb0ad")
-	)
-	(wire
-		(pts
 			(xy 288.29 127) (xy 309.88 127)
 		)
 		(stroke
@@ -2035,16 +1787,6 @@
 			(type default)
 		)
 		(uuid "5baf5721-aa54-4c31-bb31-65f7ea620407")
-	)
-	(wire
-		(pts
-			(xy 347.98 119.38) (xy 347.98 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bf75ddb-fb72-43a0-bf9a-e79b7710dd96")
 	)
 	(wire
 		(pts
@@ -2098,16 +1840,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 203.2) (xy 88.9 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63954e8a-b7c1-4a46-ad99-53fcfd9c56cc")
-	)
-	(wire
-		(pts
 			(xy 261.62 93.98) (xy 261.62 119.38)
 		)
 		(stroke
@@ -2128,16 +1860,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 152.4) (xy 347.98 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65cecee5-5e60-40f2-ba2b-87b6798e7d5f")
-	)
-	(wire
-		(pts
 			(xy 153.67 144.78) (xy 147.32 144.78)
 		)
 		(stroke
@@ -2148,7 +1870,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 170.18) (xy 347.98 177.8)
+			(xy 347.98 170.18) (xy 347.98 195.58)
 		)
 		(stroke
 			(width 0)
@@ -2258,6 +1980,16 @@
 	)
 	(wire
 		(pts
+			(xy 369.57 93.98) (xy 369.57 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7171d45b-6308-4488-8991-bd23fa3997c7")
+	)
+	(wire
+		(pts
 			(xy 88.9 144.78) (xy 88.9 170.18)
 		)
 		(stroke
@@ -2318,16 +2050,6 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 203.2) (xy 326.39 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a4d00e3-0df2-455f-8d73-15e5dbf99619")
-	)
-	(wire
-		(pts
 			(xy 288.29 101.6) (xy 309.88 101.6)
 		)
 		(stroke
@@ -2355,16 +2077,6 @@
 			(type default)
 		)
 		(uuid "7c301718-831c-4057-8f01-0da6a80e0c99")
-	)
-	(wire
-		(pts
-			(xy 347.98 93.98) (xy 347.98 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c9bbe87-100c-4f48-91ce-c2d656104c65")
 	)
 	(wire
 		(pts
@@ -2425,16 +2137,6 @@
 			(type default)
 		)
 		(uuid "88bad07f-d09c-45d8-933b-cf5194279d85")
-	)
-	(wire
-		(pts
-			(xy 347.98 177.8) (xy 353.06 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8c7ee4f4-1d71-47ef-8d78-acb9d5a7f05b")
 	)
 	(wire
 		(pts
@@ -2538,16 +2240,6 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 127) (xy 369.57 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a819b50-4e29-4946-a831-ab388a9e7ade")
-	)
-	(wire
-		(pts
 			(xy 132.08 119.38) (xy 132.08 144.78)
 		)
 		(stroke
@@ -2598,16 +2290,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 177.8) (xy 347.98 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0ec5c5f-4d59-4c3b-9904-4ea28477f6ec")
-	)
-	(wire
-		(pts
 			(xy 309.88 101.6) (xy 331.47 101.6)
 		)
 		(stroke
@@ -2615,16 +2297,6 @@
 			(type default)
 		)
 		(uuid "a2d6c531-2de4-4d69-9a7f-176ecd916fa9")
-	)
-	(wire
-		(pts
-			(xy 353.06 152.4) (xy 369.57 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a40bdd99-4dc1-4145-be65-6091ff1832c9")
 	)
 	(wire
 		(pts
@@ -2638,16 +2310,6 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 93.98) (xy 369.57 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a42431d1-ce45-4931-a4ca-e93b53d272f0")
-	)
-	(wire
-		(pts
 			(xy 67.31 144.78) (xy 67.31 170.18)
 		)
 		(stroke
@@ -2658,7 +2320,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 127) (xy 353.06 127)
+			(xy 331.47 127) (xy 353.06 127)
 		)
 		(stroke
 			(width 0)
@@ -2688,16 +2350,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 203.2) (xy 110.49 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acbeae2f-2752-4af8-bb9b-51a662aff483")
-	)
-	(wire
-		(pts
 			(xy 132.08 80.01) (xy 132.08 93.98)
 		)
 		(stroke
@@ -2705,16 +2357,6 @@
 			(type default)
 		)
 		(uuid "ae5c2c00-5ca5-465d-bc8e-2f969a76e7a1")
-	)
-	(wire
-		(pts
-			(xy 331.47 127) (xy 347.98 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aea64804-4b7b-44c4-a730-6e7824a79104")
 	)
 	(wire
 		(pts
@@ -2758,16 +2400,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 170.18) (xy 175.26 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2a5614a-c5ef-49e2-9e01-e312b929ebdb")
-	)
-	(wire
-		(pts
 			(xy 88.9 170.18) (xy 88.9 195.58)
 		)
 		(stroke
@@ -2805,16 +2437,6 @@
 			(type default)
 		)
 		(uuid "bb7c8424-30c1-4a5a-a6e9-c6e0fe9151e4")
-	)
-	(wire
-		(pts
-			(xy 132.08 170.18) (xy 132.08 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc306c0a-2c4e-424d-9442-cee9a056487f")
 	)
 	(wire
 		(pts
@@ -3038,23 +2660,13 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 101.6) (xy 353.06 101.6)
+			(xy 331.47 101.6) (xy 353.06 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d0d6c01d-505c-42be-a9a2-94b6ae6eb34c")
-	)
-	(wire
-		(pts
-			(xy 353.06 177.8) (xy 369.57 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d14de751-de4c-43fe-9deb-1d3b65fd0dbb")
 	)
 	(wire
 		(pts
@@ -3228,16 +2840,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 170.18) (xy 261.62 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ece5304b-6222-4764-b90b-c8b7862c529f")
-	)
-	(wire
-		(pts
 			(xy 347.98 195.58) (xy 341.63 195.58)
 		)
 		(stroke
@@ -3368,23 +2970,13 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 152.4) (xy 353.06 152.4)
+			(xy 331.47 152.4) (xy 353.06 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f6df7d75-3e32-479d-b0d4-ea2ce7443f7d")
-	)
-	(wire
-		(pts
-			(xy 347.98 203.2) (xy 347.98 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f81e849c-6632-4edd-9f5d-abac0e845d72")
 	)
 	(wire
 		(pts
@@ -3448,7 +3040,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col11"
 		(shape input)
 		(at 304.8 80.01 90)
 		(fields_autoplaced yes)
@@ -3460,7 +3052,7 @@
 		)
 		(uuid "136a285b-0dc8-4f39-a9c0-46d54c18f29b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 304.8 72.9125 90)
+			(at 304.8 71.703 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,7 +3062,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col14"
 		(shape input)
 		(at 369.57 80.01 90)
 		(fields_autoplaced yes)
@@ -3482,7 +3074,7 @@
 		)
 		(uuid "24c8ef8f-6ac4-4664-95d5-6e7d26d4b450")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 369.57 72.9125 90)
+			(at 369.57 71.703 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3492,7 +3084,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col7"
 		(shape input)
 		(at 218.44 80.01 90)
 		(fields_autoplaced yes)
@@ -3536,7 +3128,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col12"
 		(shape input)
 		(at 326.39 80.01 90)
 		(fields_autoplaced yes)
@@ -3548,7 +3140,7 @@
 		)
 		(uuid "69d9f6f3-ca0e-4324-968a-f53b2795e142")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 326.39 72.9125 90)
+			(at 326.39 71.703 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3558,7 +3150,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col9"
 		(shape input)
 		(at 261.62 80.01 90)
 		(fields_autoplaced yes)
@@ -3602,7 +3194,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col3"
 		(shape input)
 		(at 132.08 80.01 90)
 		(fields_autoplaced yes)
@@ -3624,7 +3216,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col2"
 		(shape input)
 		(at 110.49 80.01 90)
 		(fields_autoplaced yes)
@@ -3646,7 +3238,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col13"
 		(shape input)
 		(at 347.98 80.01 90)
 		(fields_autoplaced yes)
@@ -3658,7 +3250,7 @@
 		)
 		(uuid "bba08966-6eb9-4c41-87ad-2f531633300b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.98 72.9125 90)
+			(at 347.98 71.703 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3668,7 +3260,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col5"
 		(shape input)
 		(at 175.26 80.01 90)
 		(fields_autoplaced yes)
@@ -3690,7 +3282,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col10"
 		(shape input)
 		(at 283.21 80.01 90)
 		(fields_autoplaced yes)
@@ -3702,7 +3294,7 @@
 		)
 		(uuid "c88966c7-6118-4caa-b0e5-9e064a66f528")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.21 72.9125 90)
+			(at 283.21 71.703 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3734,7 +3326,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col8"
 		(shape input)
 		(at 240.03 80.01 90)
 		(fields_autoplaced yes)
@@ -3778,7 +3370,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col6"
 		(shape input)
 		(at 196.85 80.01 90)
 		(fields_autoplaced yes)
@@ -3800,7 +3392,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col1"
 		(shape input)
 		(at 88.9 80.01 90)
 		(fields_autoplaced yes)
@@ -3822,7 +3414,7 @@
 			)
 		)
 	)
-	(global_label "col0"
+	(global_label "col4"
 		(shape input)
 		(at 153.67 80.01 90)
 		(fields_autoplaced yes)
@@ -3894,7 +3486,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 309.88 97.79 0)
 			(effects
 				(font
@@ -3980,7 +3572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 250.19 114.3 0)
 			(effects
 				(font
@@ -4050,7 +3642,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 72.39 97.79 0)
 			(effects
 				(font
@@ -4138,7 +3730,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 93.98 148.59 0)
 			(effects
 				(font
@@ -4226,7 +3818,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 180.34 148.59 0)
 			(effects
 				(font
@@ -4312,7 +3904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 55.88 139.7 0)
 			(effects
 				(font
@@ -4380,7 +3972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 55.88 190.5 0)
 			(effects
 				(font
@@ -4450,7 +4042,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 223.52 148.59 0)
 			(effects
 				(font
@@ -4536,7 +4128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 114.3 0)
 			(effects
 				(font
@@ -4606,7 +4198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 245.11 97.79 0)
 			(effects
 				(font
@@ -4692,7 +4284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 139.7 0)
 			(effects
 				(font
@@ -4762,7 +4354,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 331.47 173.99 0)
 			(effects
 				(font
@@ -4850,7 +4442,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 93.98 123.19 0)
 			(effects
 				(font
@@ -4936,7 +4528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 293.37 139.7 0)
 			(effects
 				(font
@@ -5006,7 +4598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 173.99 0)
 			(effects
 				(font
@@ -5094,7 +4686,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 148.59 0)
 			(effects
 				(font
@@ -5180,7 +4772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50_PCB"
 			(at 99.06 190.5 0)
 			(effects
 				(font
@@ -5250,7 +4842,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 309.88 173.99 0)
 			(effects
 				(font
@@ -5338,7 +4930,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 173.99 0)
 			(effects
 				(font
@@ -5424,7 +5016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 228.6 114.3 0)
 			(effects
 				(font
@@ -5492,7 +5084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 250.19 139.7 0)
 			(effects
 				(font
@@ -5562,7 +5154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 288.29 123.19 0)
 			(effects
 				(font
@@ -5648,7 +5240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 120.65 114.3 0)
 			(effects
 				(font
@@ -5718,7 +5310,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 50.8 123.19 0)
 			(effects
 				(font
@@ -5804,7 +5396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 88.9 0)
 			(effects
 				(font
@@ -5872,7 +5464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 185.42 165.1 0)
 			(effects
 				(font
@@ -5942,7 +5534,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 180.34 97.79 0)
 			(effects
 				(font
@@ -6028,7 +5620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 228.6 165.1 0)
 			(effects
 				(font
@@ -6098,7 +5690,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 309.88 199.39 0)
 			(effects
 				(font
@@ -6184,7 +5776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 165.1 0)
 			(effects
 				(font
@@ -6252,7 +5844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 55.88 88.9 0)
 			(effects
 				(font
@@ -6320,7 +5912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 336.55 139.7 0)
 			(effects
 				(font
@@ -6390,7 +5982,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 158.75 148.59 0)
 			(effects
 				(font
@@ -6476,7 +6068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 314.96 88.9 0)
 			(effects
 				(font
@@ -6546,7 +6138,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 331.47 148.59 0)
 			(effects
 				(font
@@ -6632,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 336.55 114.3 0)
 			(effects
 				(font
@@ -6700,7 +6292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 293.37 88.9 0)
 			(effects
 				(font
@@ -6768,7 +6360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 114.3 0)
 			(effects
 				(font
@@ -6836,7 +6428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 358.14 88.9 0)
 			(effects
 				(font
@@ -6904,7 +6496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 114.3 0)
 			(effects
 				(font
@@ -6974,7 +6566,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 353.06 123.19 0)
 			(effects
 				(font
@@ -7060,7 +6652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 207.01 114.3 0)
 			(effects
 				(font
@@ -7128,7 +6720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 120.65 165.1 0)
 			(effects
 				(font
@@ -7198,7 +6790,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 353.06 148.59 0)
 			(effects
 				(font
@@ -7284,7 +6876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 185.42 139.7 0)
 			(effects
 				(font
@@ -7352,7 +6944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.50u_PCB"
 			(at 185.42 190.5 0)
 			(effects
 				(font
@@ -7422,7 +7014,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 288.29 97.79 0)
 			(effects
 				(font
@@ -7508,7 +7100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 77.47 114.3 0)
 			(effects
 				(font
@@ -7576,7 +7168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 77.47 139.7 0)
 			(effects
 				(font
@@ -7646,7 +7238,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 50.8 199.39 0)
 			(effects
 				(font
@@ -7734,7 +7326,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 72.39 173.99 0)
 			(effects
 				(font
@@ -7822,7 +7414,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 353.06 199.39 0)
 			(effects
 				(font
@@ -7910,7 +7502,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 180.34 199.39 0)
 			(effects
 				(font
@@ -7996,7 +7588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 228.6 139.7 0)
 			(effects
 				(font
@@ -8066,7 +7658,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 93.98 173.99 0)
 			(effects
 				(font
@@ -8152,7 +7744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 336.55 165.1 0)
 			(effects
 				(font
@@ -8220,7 +7812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 120.65 139.7 0)
 			(effects
 				(font
@@ -8288,7 +7880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
 			(at 55.88 165.1 0)
 			(effects
 				(font
@@ -8358,7 +7950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 93.98 97.79 0)
 			(effects
 				(font
@@ -8444,7 +8036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 88.9 0)
 			(effects
 				(font
@@ -8512,7 +8104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 142.24 139.7 0)
 			(effects
 				(font
@@ -8580,7 +8172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 114.3 0)
 			(effects
 				(font
@@ -8650,7 +8242,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 50.8 173.99 0)
 			(effects
 				(font
@@ -8738,7 +8330,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 288.29 199.39 0)
 			(effects
 				(font
@@ -8826,7 +8418,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 158.75 97.79 0)
 			(effects
 				(font
@@ -8914,7 +8506,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 223.52 173.99 0)
 			(effects
 				(font
@@ -9002,7 +8594,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 115.57 148.59 0)
 			(effects
 				(font
@@ -9090,7 +8682,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 158.75 173.99 0)
 			(effects
 				(font
@@ -9178,7 +8770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 288.29 148.59 0)
 			(effects
 				(font
@@ -9266,7 +8858,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 245.11 148.59 0)
 			(effects
 				(font
@@ -9354,7 +8946,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 245.11 173.99 0)
 			(effects
 				(font
@@ -9440,7 +9032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 88.9 0)
 			(effects
 				(font
@@ -9510,7 +9102,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 93.98 199.39 0)
 			(effects
 				(font
@@ -9598,7 +9190,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 173.99 0)
 			(effects
 				(font
@@ -9684,7 +9276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 358.14 139.7 0)
 			(effects
 				(font
@@ -9752,7 +9344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 250.19 165.1 0)
 			(effects
 				(font
@@ -9822,7 +9414,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 123.19 0)
 			(effects
 				(font
@@ -9910,7 +9502,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 309.88 123.19 0)
 			(effects
 				(font
@@ -9998,7 +9590,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 123.19 0)
 			(effects
 				(font
@@ -10084,7 +9676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 88.9 0)
 			(effects
 				(font
@@ -10154,7 +9746,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 97.79 0)
 			(effects
 				(font
@@ -10240,7 +9832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 314.96 190.5 0)
 			(effects
 				(font
@@ -10310,7 +9902,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 50.8 97.79 0)
 			(effects
 				(font
@@ -10398,7 +9990,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 158.75 123.19 0)
 			(effects
 				(font
@@ -10486,7 +10078,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 180.34 123.19 0)
 			(effects
 				(font
@@ -10572,7 +10164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 165.1 0)
 			(effects
 				(font
@@ -10642,7 +10234,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 223.52 123.19 0)
 			(effects
 				(font
@@ -10728,7 +10320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 314.96 114.3 0)
 			(effects
 				(font
@@ -10798,7 +10390,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 115.57 123.19 0)
 			(effects
 				(font
@@ -10884,7 +10476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 207.01 88.9 0)
 			(effects
 				(font
@@ -10954,7 +10546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 50.8 148.59 0)
 			(effects
 				(font
@@ -11040,7 +10632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 358.14 114.3 0)
 			(effects
 				(font
@@ -11108,7 +10700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 250.19 88.9 0)
 			(effects
 				(font
@@ -11176,7 +10768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 139.7 0)
 			(effects
 				(font
@@ -11244,7 +10836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 185.42 114.3 0)
 			(effects
 				(font
@@ -11314,7 +10906,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 245.11 123.19 0)
 			(effects
 				(font
@@ -11400,7 +10992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 120.65 88.9 0)
 			(effects
 				(font
@@ -11470,7 +11062,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 148.59 0)
 			(effects
 				(font
@@ -11558,7 +11150,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 148.59 0)
 			(effects
 				(font
@@ -11646,7 +11238,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 115.57 173.99 0)
 			(effects
 				(font
@@ -11732,7 +11324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 185.42 88.9 0)
 			(effects
 				(font
@@ -11802,7 +11394,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 115.57 97.79 0)
 			(effects
 				(font
@@ -11890,7 +11482,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 331.47 123.19 0)
 			(effects
 				(font
@@ -11976,7 +11568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
 			(at 336.55 88.9 0)
 			(effects
 				(font
@@ -12044,7 +11636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 207.01 139.7 0)
 			(effects
 				(font
@@ -12112,7 +11704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 358.14 165.1 0)
 			(effects
 				(font
@@ -12180,7 +11772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 271.78 190.5 0)
 			(effects
 				(font
@@ -12248,7 +11840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 77.47 165.1 0)
 			(effects
 				(font
@@ -12318,7 +11910,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 123.19 0)
 			(effects
 				(font
@@ -12406,7 +11998,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 72.39 148.59 0)
 			(effects
 				(font
@@ -12494,7 +12086,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 180.34 173.99 0)
 			(effects
 				(font
@@ -12582,7 +12174,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 199.39 0)
 			(effects
 				(font
@@ -12670,7 +12262,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 72.39 123.19 0)
 			(effects
 				(font
@@ -12756,7 +12348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 165.1 0)
 			(effects
 				(font
@@ -12826,7 +12418,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 97.79 0)
 			(effects
 				(font
@@ -12912,7 +12504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 99.06 165.1 0)
 			(effects
 				(font
@@ -12982,7 +12574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 353.06 97.79 0)
 			(effects
 				(font
@@ -13068,7 +12660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 358.14 190.5 0)
 			(effects
 				(font
@@ -13138,7 +12730,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 97.79 0)
 			(effects
 				(font
@@ -13224,7 +12816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
 			(at 55.88 114.3 0)
 			(effects
 				(font
@@ -13292,7 +12884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 139.7 0)
 			(effects
 				(font
@@ -13360,7 +12952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 77.47 88.9 0)
 			(effects
 				(font
@@ -13428,7 +13020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 293.37 114.3 0)
 			(effects
 				(font
@@ -13498,7 +13090,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 331.47 97.79 0)
 			(effects
 				(font
@@ -13586,7 +13178,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 353.06 173.99 0)
 			(effects
 				(font
@@ -13674,7 +13266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 72.39 199.39 0)
 			(effects
 				(font
@@ -13760,7 +13352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
 			(at 314.96 165.1 0)
 			(effects
 				(font
@@ -13828,7 +13420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -13896,7 +13488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 77.47 190.5 0)
 			(effects
 				(font
@@ -13966,7 +13558,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 331.47 199.39 0)
 			(effects
 				(font
@@ -14052,7 +13644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
 			(at 293.37 190.5 0)
 			(effects
 				(font
@@ -14122,7 +13714,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 223.52 97.79 0)
 			(effects
 				(font
@@ -14208,7 +13800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 228.6 88.9 0)
 			(effects
 				(font
@@ -14276,7 +13868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 336.55 190.5 0)
 			(effects
 				(font

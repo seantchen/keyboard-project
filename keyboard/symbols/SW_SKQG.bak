@@ -50,17 +50,6 @@
 			)
 		)
 		(symbol "SW_SKQG_0_1"
-			(rectangle
-				(start -3.81 -6.35)
-				(end 3.81 -13.97)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(polyline
 				(pts
 					(xy -3.81 -7.62) (xy 3.81 -7.62) (xy 0 -7.62) (xy 0 -8.89)
@@ -87,6 +76,17 @@
 			)
 		)
 		(symbol "SW_SKQG_1_1"
+			(rectangle
+				(start -3.81 -6.35)
+				(end 3.81 -13.97)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(polyline
 				(pts
 					(xy -1.27 -10.16) (xy -1.27 -11.43) (xy -1.27 -8.89) (xy -1.27 -10.16) (xy -2.54 -10.16)
@@ -131,7 +131,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number ""
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -185,7 +185,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number ""
 					(effects
 						(font
 							(size 1.27 1.27)
