@@ -6826,7 +6826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX:MXOnly-1U"
 			(at 240.03 39.37 0)
 			(effects
 				(font
