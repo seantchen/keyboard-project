@@ -3572,7 +3572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 250.19 114.3 0)
 			(effects
 				(font
@@ -3904,7 +3904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.75U"
+		(property "Footprint" "MX:MXOnly-1.75U-NoLED"
 			(at 55.88 139.7 0)
 			(effects
 				(font
@@ -3972,7 +3972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.5U"
+		(property "Footprint" "MX:MXOnly-1.5U-NoLED"
 			(at 55.88 190.5 0)
 			(effects
 				(font
@@ -4128,7 +4128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 99.06 114.3 0)
 			(effects
 				(font
@@ -4284,7 +4284,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 99.06 139.7 0)
 			(effects
 				(font
@@ -4528,7 +4528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 293.37 139.7 0)
 			(effects
 				(font
@@ -4772,7 +4772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.5U"
+		(property "Footprint" "MX:MXOnly-1.5U-NoLED"
 			(at 99.06 190.5 0)
 			(effects
 				(font
@@ -5016,7 +5016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 228.6 114.3 0)
 			(effects
 				(font
@@ -5084,7 +5084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 250.19 139.7 0)
 			(effects
 				(font
@@ -5240,7 +5240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 120.65 114.3 0)
 			(effects
 				(font
@@ -5396,7 +5396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 142.24 88.9 0)
 			(effects
 				(font
@@ -5464,7 +5464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 185.42 165.1 0)
 			(effects
 				(font
@@ -5620,7 +5620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 228.6 165.1 0)
 			(effects
 				(font
@@ -5776,7 +5776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 142.24 165.1 0)
 			(effects
 				(font
@@ -5844,7 +5844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 55.88 88.9 0)
 			(effects
 				(font
@@ -5912,7 +5912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-2.25U"
+		(property "Footprint" "MX:MXOnly-2.25U-NoLED"
 			(at 336.55 139.7 0)
 			(effects
 				(font
@@ -6068,7 +6068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 314.96 88.9 0)
 			(effects
 				(font
@@ -6224,7 +6224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.5U"
+		(property "Footprint" "MX:MXOnly-1.5U-NoLED"
 			(at 336.55 114.3 0)
 			(effects
 				(font
@@ -6292,7 +6292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 293.37 88.9 0)
 			(effects
 				(font
@@ -6360,7 +6360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 142.24 114.3 0)
 			(effects
 				(font
@@ -6428,7 +6428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 358.14 88.9 0)
 			(effects
 				(font
@@ -6496,7 +6496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 271.78 114.3 0)
 			(effects
 				(font
@@ -6652,7 +6652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 207.01 114.3 0)
 			(effects
 				(font
@@ -6720,7 +6720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 120.65 165.1 0)
 			(effects
 				(font
@@ -6876,7 +6876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 185.42 139.7 0)
 			(effects
 				(font
@@ -6944,7 +6944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-6.25U"
+		(property "Footprint" "MX:MXOnly-6.25U-ReversedStabilizers-NoLED"
 			(at 185.42 190.5 0)
 			(effects
 				(font
@@ -7100,7 +7100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 77.47 114.3 0)
 			(effects
 				(font
@@ -7168,7 +7168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 77.47 139.7 0)
 			(effects
 				(font
@@ -7588,7 +7588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 228.6 139.7 0)
 			(effects
 				(font
@@ -7744,7 +7744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 336.55 165.1 0)
 			(effects
 				(font
@@ -7812,7 +7812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 120.65 139.7 0)
 			(effects
 				(font
@@ -7880,7 +7880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-2.25U"
+		(property "Footprint" "MX:MXOnly-2.25U-NoLED"
 			(at 55.88 165.1 0)
 			(effects
 				(font
@@ -8036,7 +8036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 163.83 88.9 0)
 			(effects
 				(font
@@ -8104,7 +8104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 142.24 139.7 0)
 			(effects
 				(font
@@ -8172,7 +8172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 163.83 114.3 0)
 			(effects
 				(font
@@ -9032,7 +9032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 271.78 88.9 0)
 			(effects
 				(font
@@ -9276,7 +9276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 358.14 139.7 0)
 			(effects
 				(font
@@ -9344,7 +9344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 250.19 165.1 0)
 			(effects
 				(font
@@ -9676,7 +9676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 99.06 88.9 0)
 			(effects
 				(font
@@ -9832,7 +9832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 314.96 190.5 0)
 			(effects
 				(font
@@ -10164,7 +10164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 271.78 165.1 0)
 			(effects
 				(font
@@ -10320,7 +10320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 314.96 114.3 0)
 			(effects
 				(font
@@ -10476,7 +10476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 207.01 88.9 0)
 			(effects
 				(font
@@ -10632,7 +10632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 358.14 114.3 0)
 			(effects
 				(font
@@ -10700,7 +10700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 250.19 88.9 0)
 			(effects
 				(font
@@ -10768,7 +10768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 271.78 139.7 0)
 			(effects
 				(font
@@ -10836,7 +10836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 185.42 114.3 0)
 			(effects
 				(font
@@ -10992,7 +10992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 120.65 88.9 0)
 			(effects
 				(font
@@ -11324,7 +11324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 185.42 88.9 0)
 			(effects
 				(font
@@ -11568,7 +11568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-2U"
+		(property "Footprint" "MX:MXOnly-2U-NoLED"
 			(at 336.55 88.9 0)
 			(effects
 				(font
@@ -11636,7 +11636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 207.01 139.7 0)
 			(effects
 				(font
@@ -11704,7 +11704,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 358.14 165.1 0)
 			(effects
 				(font
@@ -11772,7 +11772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.25U"
+		(property "Footprint" "MX:MXOnly-1.25U-NoLED"
 			(at 271.78 190.5 0)
 			(effects
 				(font
@@ -11840,7 +11840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 77.47 165.1 0)
 			(effects
 				(font
@@ -12348,7 +12348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 163.83 165.1 0)
 			(effects
 				(font
@@ -12504,7 +12504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 99.06 165.1 0)
 			(effects
 				(font
@@ -12660,7 +12660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 358.14 190.5 0)
 			(effects
 				(font
@@ -12816,7 +12816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.5U"
+		(property "Footprint" "MX:MXOnly-1.5U-NoLED"
 			(at 55.88 114.3 0)
 			(effects
 				(font
@@ -12884,7 +12884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 163.83 139.7 0)
 			(effects
 				(font
@@ -12952,7 +12952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 77.47 88.9 0)
 			(effects
 				(font
@@ -13020,7 +13020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 293.37 114.3 0)
 			(effects
 				(font
@@ -13352,7 +13352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.75U"
+		(property "Footprint" "MX:MXOnly-1.75U-NoLED"
 			(at 314.96 165.1 0)
 			(effects
 				(font
@@ -13420,7 +13420,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 207.01 165.1 0)
 			(effects
 				(font
@@ -13488,7 +13488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.25U"
+		(property "Footprint" "MX:MXOnly-1.25U-NoLED"
 			(at 77.47 190.5 0)
 			(effects
 				(font
@@ -13644,7 +13644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1.25U"
+		(property "Footprint" "MX:MXOnly-1.25U-NoLED"
 			(at 293.37 190.5 0)
 			(effects
 				(font
@@ -13800,7 +13800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 228.6 88.9 0)
 			(effects
 				(font
@@ -13868,7 +13868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 336.55 190.5 0)
 			(effects
 				(font

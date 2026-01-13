@@ -6826,7 +6826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U"
+		(property "Footprint" "MX:MXOnly-1U-NoLED"
 			(at 240.03 39.37 0)
 			(effects
 				(font
