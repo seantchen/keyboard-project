@@ -2901,12 +2901,6 @@
 		(uuid "646d5c21-4f0a-44f6-a533-df67d138ca16")
 	)
 	(junction
-		(at 213.36 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "668fa1c7-f5e3-4baf-8a2d-7bd1d1afd175")
-	)
-	(junction
 		(at 92.71 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3150,7 +3144,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 110.49) (xy 213.36 110.49)
+			(xy 204.47 110.49) (xy 214.63 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3177,16 +3171,6 @@
 			(type default)
 		)
 		(uuid "258d24ea-65cf-490e-bd41-aa7f11e486d1")
-	)
-	(wire
-		(pts
-			(xy 213.36 110.49) (xy 214.63 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "27927597-6929-4068-becf-d8c23e3e1983")
 	)
 	(wire
 		(pts
@@ -3330,7 +3314,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 90.17) (xy 213.36 110.49)
+			(xy 213.36 90.17) (xy 213.36 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3617,16 +3601,6 @@
 			(type default)
 		)
 		(uuid "9ba93e4e-e9fe-4e64-9f7e-8c8a12046864")
-	)
-	(wire
-		(pts
-			(xy 213.36 110.49) (xy 213.36 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4ecf247-2b9d-4c45-be15-482de3f18077")
 	)
 	(wire
 		(pts
@@ -6826,7 +6800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MX:MXOnly-1U-NoLED"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
 			(at 240.03 39.37 0)
 			(effects
 				(font
